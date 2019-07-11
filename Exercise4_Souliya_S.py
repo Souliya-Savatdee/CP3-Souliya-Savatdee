@@ -1,10 +1,17 @@
-a=2
-b=1
-while(True):
-    print(str(a)+" "+"x"+" "+str(b)+" "+"="+" "+str(a*b))
-    b=b+1
-    if(b>12):
-        a=a+1
-        b=1
-        if(a>12):
-            break
+'''
+ส่งงาน Ex4
+'''
+a = Found_Eng = 80
+b = General_Bus = 70
+c = Com_Sye = 81
+d = Com_Pro = 81
+
+print("*-*-*- Your Score -*-*-*")
+print( )
+print("Foundation English :",a)
+print("Geanaral Business :",b)
+print("Introduction to Computer System",c)
+print("Computer Programming",d)
+print( )
+print("Good Job :D")
+
