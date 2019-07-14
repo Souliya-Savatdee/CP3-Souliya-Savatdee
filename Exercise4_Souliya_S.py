@@ -8,10 +8,9 @@ d = Com_Pro = 81
 
 print("*-*-*- Your Score -*-*-*")
 print( )
-print("Foundation English :",a)
-print("Geanaral Business :",b)
-print("Introduction to Computer System",c)
-print("Computer Programming",d)
+print("Foundation English :",a,"points")
+print("Geanaral Business :",b,"points")
+print("Introduction to Computer System :",c,"points")
+print("Computer Programming :",d,"points")
 print( )
 print("Good Job :D")
-
